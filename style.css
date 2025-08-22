@@ -4075,7 +4075,7 @@ object {
   flex-grow: 1;
   flex-basis: 0;
   font-weight: 600;
-  color: #1a1a1a;
+  color: #ffffff;
 }
 .ot-countdown li span {
   font-size: 120px;
@@ -4093,7 +4093,7 @@ object {
 .ot-countdown li.seperator {
   font-size: 72px;
   font-weight: bold;
-  color: #282727;
+  color: #ffffff;
   margin-top: 27px;
 }
 
@@ -8032,12 +8032,12 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     border: 1px solid transparent;
     border-radius: 50%;
     padding: 7px;
-    color: #1A1A1A;
+    color: #FFF;
     text-align: center;
     margin-right: 11px;
 }
 .cs-social a:hover {
-    background-color: #fff;
+    background-color: #000;
 }
 .cs-social a i {
     width: 14px;

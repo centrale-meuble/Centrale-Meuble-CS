@@ -4077,6 +4077,18 @@ object {
   font-weight: 600;
   color: #ffffff;
 }
+.days{
+  -webkit-text-stroke: 3px #B48E1E;
+}
+.hours{
+  -webkit-text-stroke: 3px #B48E1E;
+}
+.minutes{
+  -webkit-text-stroke: 3px #B48E1E;
+}
+.seconds{
+  -webkit-text-stroke: 3px #B48E1E;
+}
 .ot-countdown li span {
   font-size: 120px;
   font-family: "Titillium Web", sans-serif;
